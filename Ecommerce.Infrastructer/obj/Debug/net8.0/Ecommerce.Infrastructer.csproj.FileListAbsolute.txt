@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Infrastructer.deps.json
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Infrastructer.runtimeconfig.json
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Infrastructer.dll
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Infrastructer.pdb
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Core.dll
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\bin\Debug\net8.0\Ecommerce.Core.pdb
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.AssemblyInfo.cs
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.csproj.CopyComplete
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.dll
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\refint\Ecommerce.Infrastructer.dll
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.pdb
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\Ecommerce.Infrastructer.genruntimeconfig.cache
+C:\Users\hp\source\repos\API\Ecommerce\WebApplication1\Ecommerce.Infrastructer\obj\Debug\net8.0\ref\Ecommerce.Infrastructer.dll
